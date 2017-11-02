@@ -1,15 +1,15 @@
 # vue-image-clipper
 
-##Demo-例子
+## Demo-例子
 
-##Import引入
+## Import-引入
 ```Javascript
 import Vue from 'vue';
 import imageClipper from 'path/imageClipper/index.js';
 Vue.use(imageClipper);
 ```
 
-##Use使用
+## Use-使用
 ```HTML
 <image-clipper v-show="visible" :clip-width="250" :clip-width="250" @ok="ok"></image-clipper>
 ```
@@ -24,12 +24,12 @@ export default {
 }
 ```
 
-##Options选项
+## Options-选项
 | Option | Description |
 | ----- | ----- |
 | v-model | Boolean(default: false) Picker show and hide. |
 
-##Events事件
+## Events-事件
 
-##Methods方法
+## Methods-方法
 
