@@ -43,12 +43,12 @@ export default {
 | loadSuccess | no | 图片加载成功触发
 | loadError | no | 图片加载失败触发
 | loadComplete | no | 图片加载完成触发
-| ok |img/dataUrl | 点击确认按钮，返回裁剪图片的dataUrl
+| ok | dataUrl | 点击确认按钮，返回裁剪图片的dataUrl
 | cancel | no | 点击取消按钮
 
 ## Methods-方法
 | Name | Args | Return
 | ---- | ---- | ----- |
-| getBase64 | img/dataUrl | img base64
+| getBase64 | dataUrl | img base64
 
 
