@@ -1,0 +1,23 @@
+{
+  "name": "vue-imageClipper",
+  "version": "1.0.0",
+  "description": "The image clipper component base on Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivialex/vue-image-clipper.git"
+  },
+  "keywords": [
+    "Vue",
+    "vue-image-clipper"
+  ],
+  "author": "Alex_Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivialex/vue-image-clipper/issues"
+  },
+  "homepage": "https://github.com/vivialex/vue-image-clipper#readme"
+}
