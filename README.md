@@ -1,6 +1,9 @@
+[vue-imageClipper]: https://vivialex.github.io/demo/imageClipper/index.html
+
 # vue-imageClipper
 
 ## Demo-例子
+[vue-imageClipper]
 
 ## Import-引入
 ```Javascript
